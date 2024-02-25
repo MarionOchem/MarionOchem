@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+  <h3>Hi there 👋</h3>
+</p>
 <!--
 **MarionOchem/MarionOchem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarionOchem&show_icons=true&theme=tokyonight&rank_icon=github" alt="Anurag's GitHub stats">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarionOchem&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarionOchem&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionOchem&layout=compact" alt="Top Langs">
+</p>
 
 ### Learning web dev using : 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
