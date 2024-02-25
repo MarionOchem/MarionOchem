@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div style="text-align: center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarionOchem&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarionOchem&layout=compact)
 
+</div>
 
 ### Learning web dev using : 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
