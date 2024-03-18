@@ -33,4 +33,5 @@ Here are some ideas to get you started:
           <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
 
