@@ -1,14 +1,17 @@
 ### Hi there 👋
 
 I'm Marion, a passionate backend and infrastructure developer with a deep interest in data architecture and Python development, particularly in the realms of web scraping and artificial intelligence.
+
+ 🔭 For the past six years, I've immersed myself in the research sector, specializing in philosophy. My focus areas have been logic, epistemology of sciences, theory of knowledge, and metaphysics. 
+ 
+💻	My journey into tech, driven by a fascination with the epistemology of informatics, combines my philosophical insights with computational methods to solve complex problems and create socially impactful products. I'm passionate about using technology to address social issues, drive innovation, and deliver human-centered solutions.
+
 <!--
 **MarionOchem/MarionOchem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
- 🔭 For the past six years, I've immersed myself in the research sector, specializing in philosophy. My focus areas have been logic, epistemology of sciences, theory of knowledge, and metaphysics. 
- 
-💻	My journey into tech, driven by a fascination with the epistemology of informatics, combines my philosophical insights with computational methods to solve complex problems and create socially impactful products. I'm passionate about using technology to address social issues, drive innovation, and deliver human-centered solutions.
+
 
  
 - 🌱 I’m currently learning ...
