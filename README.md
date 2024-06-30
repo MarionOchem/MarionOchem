@@ -1,3 +1,7 @@
+
+
+![Profile Image](https://github.com/MarionOchem/MarionOchem/assets/146748546/6c61ab3c-9c28-402f-a471-1e6f46f9f0da)
+
 ### Hi there 👋
 
 I'm Marion, a passionate backend and infrastructure developer with a deep interest in data architecture and Python development, particularly in the realms of web scraping and artificial intelligence.
